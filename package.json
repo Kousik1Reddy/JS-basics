@@ -1,0 +1,24 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kousik1Reddy/JS-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kousik1Reddy/JS-basics/issues"
+  },
+  "homepage": "https://github.com/Kousik1Reddy/JS-basics#readme",
+  "dependencies": {
+    "animals": "^0.0.3",
+    "cowsay": "^1.5.0",
+    "inspirational-quotes": "^2.0.1"
+  }
+}
